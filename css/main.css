@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(222, 96, 28);
+}
+
+.main__div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.moustache {
+    width: 250px;
+    height: 98px;
+    font-size: 36px;
+    border-radius: 26%;
+    border: none;
+    box-shadow: 0 0 10px black;
+}
+.Igor {
+    font-family: sans-serif;
+    font-size: 28px;
+}
+h1 {
+    font-size: 64px;
+    letter-spacing: 13px;
+    margin: 0;
+}
+h3 {
+    color: rgb(76, 18, 129);
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.img {
+    margin: 40px 0 0 0;
+}
+.nemain_div {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 26%;
+
+
+}
